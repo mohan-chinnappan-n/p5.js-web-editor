@@ -179,7 +179,7 @@
     "i18next-http-backend": "^1.0.21",
     "is-url": "^1.2.4",
     "jest-express": "^1.11.0",
-    "jsdom": "^9.8.3",
+    "jsdom": "^16.5.0",
     "jshint": "^2.11.0",
     "lodash": "^4.17.21",
     "loop-protect": "github:catarak/loop-protect",
